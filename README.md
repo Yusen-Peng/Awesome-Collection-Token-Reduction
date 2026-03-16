@@ -187,6 +187,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**NeurIPS'25**] Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning [[Paper](https://arxiv.org/pdf/2506.01939)] [[Code](https://github.com/Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR)]
 * [**NeurIPS'25**] Does Thinking More always Help? Mirage of Test-Time Scaling in Reasoning Models [[Paper](https://arxiv.org/pdf/2506.04210)]
 * [**NeurIPS'25**] Thinkless: LLM Learns When to Think [[Paper](https://openreview.net/pdf?id=ariVQf0KZx)] [[Code](https://github.com/VainF/Thinkless)]
+* [arXiv] GMSA: Enhancing Context Compression via Group Merging and Layer Semantic Alignment [[Paper](https://arxiv.org/pdf/2505.12215)]
 * [arXiv] Beyond Fixed: Training-Free Variable-Length Denoising for Diffusion Large Language Models [[Paper](https://arxiv.org/pdf/2508.00819)] [[Code](https://github.com/Li-Jinsong/DAEDAL)]
 * [arXiv] Optimizing Length Compression in Large Reasoning Models [[Paper](https://arxiv.org/pdf/2506.14755)] [[Code](https://github.com/zxiangx/LC-R1)]
 * [arXiv] DPad: Efficient Diffusion Language Models with Suffix Dropout [[Paper](https://arxiv.org/pdf/2508.14148)] [[Code](https://github.com/Crys-Chen/DPad)]
