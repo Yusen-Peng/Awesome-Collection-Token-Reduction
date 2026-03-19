@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/03/17`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
+- **`2026/03/19`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -250,6 +250,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**CVPR'26**] AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition [[Paper](https://arxiv.org/pdf/2512.03794)] [[Code](https://github.com/AdaptVision/AdaptVision)]
 * [**CVPR'26**] Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models [[Paper](https://arxiv.org/pdf/2603.01400)] [[Code](https://tyroneli.github.io/AOT/)]
 * [**CVPR'26**] StreamingTOM: Streaming Token Compression for Efficient Video Understanding [[Paper](https://arxiv.org/pdf/2510.18269)] [[Code](https://github.com/YIGE24/StreamingTOM)]
+* [**CVPR'26**] OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models [[Paper](https://arxiv.org/pdf/2511.14582)] [[Code](https://github.com/KD-TAO/OmniZip)]
 * [**CVPR'26**] Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving [[Paper](https://arxiv.org/pdf/2508.13305)] [[Code](https://github.com/MinhaoXiong/Prune2Drive)]
 * [**CVPR'26**] FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection [[Paper](https://arxiv.org/pdf/2601.03928)] [[Code](https://github.com/showlab/FocusUI)]
 * [**CVPR'26**] ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models [[Paper](https://arxiv.org/pdf/2509.24837v2)] [[Code](https://github.com/AIM-SKKU/ZOO-Prune)]
@@ -320,7 +321,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] DeepSeek-OCR: Contexts Optical Compression [[Paper](https://arxiv.org/pdf/2510.18234)][[Code](https://github.com/deepseek-ai/DeepSeek-OCR)]
 * [arXiv] Glyph: Scaling Context Windows via Visual-Text Compression [[Paper](https://arxiv.org/pdf/2510.17800)][[Code](https://github.com/thu-coai/Glyph)]
 * [arXiv] VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression? [[Paper](https://arxiv.org/pdf/2512.15649)][[Code](https://github.com/Moenupa/VTCBench)]
-* [arXiv] OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models [[Paper](https://arxiv.org/pdf/2511.14582)] [[Code](https://github.com/KD-TAO/OmniZip)]
 * [arXiv] StreamingTOM: Streaming Token Compression for Efficient Video Understanding [[Paper](https://arxiv.org/pdf/2510.18269)]
 * [arXiv] Adaptive Token Merging for Efficient Transformer Semantic Communication at the Edge [[Paper](https://arxiv.org/pdf/2509.09955)]
 * [arXiv] D2Pruner: Debiased Importance and Structural Diversity for MLLM Token Pruning [[Paper](https://arxiv.org/pdf/2512.19443)] [[Code](https://github.com/EvelynZhang-epiclab/D2Pruner)]
