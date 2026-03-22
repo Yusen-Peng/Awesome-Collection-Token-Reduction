@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/03/19`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
+- **`2026/03/21`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -147,6 +147,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 📝 Language 
 <a id="language"></a>
 #### 2026
+* [**ICLR'26**] Efficient Reasoning with Balanced Thinking [[Paper](https://openreview.net/pdf?id=cJseWJJ5IM)] [[Code](https://github.com/yu-lin-li/ReBalance)]
 * [**ICLR'26**] COMI: Coarse-to-fine Context Compression via Marginal Information Gain [[Paper](https://arxiv.org/pdf/2602.01719)] [[Code](https://github.com/Twilightaaa/COMI)]
 * [**ICLR'26**] Plan and Budget: Effective and Efficient Test-Time Scaling on Reasoning Large Language Models [[Paper](https://arxiv.org/pdf/2505.16122)] [[Code](https://github.com/junhongmit/P-and-B)]
 * [**ICLR'26**] DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference [[Paper](https://arxiv.org/pdf/2510.19669)]
@@ -294,6 +295,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**EMNLP'25**] LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression [[Paper](https://arxiv.org/pdf/2509.00419)]
 * [**EMNLP'25**] Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models [[Paper](https://arxiv.org/pdf/2505.14454)] [[Code](https://github.com/xuyang-liu16/VidCom2)]
 * [**ACL'25**] PruneVid: Visual Token Pruning for Efficient Video Large Language Models [[Paper](https://aclanthology.org/2025.findings-acl.1024.pdf)] [[Code](https://github.com/visual-ai/prunevid)]
+* [**NeurIPS'25**] Less Is More, but Where? Dynamic Token Compression via LLM-Guided Keyframe Prior [[Paper](https://arxiv.org/pdf/2512.06866)] [[Code](https://github.com/yu-lin-li/DyToK)]
 * [**NeurIPS'25**] SCOPE: Saliency-Coverage Oriented Token Pruning for Efficient Multimodel LLMs [[Paper](https://arxiv.org/pdf/2510.24214)] [[Code](https://github.com/kinredon/SCOPE)]
 * [**NeurIPS'25**] EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models [[Paper](https://openreview.net/pdf?id=SELYlDHZk2)] [[Code](https://github.com/YantaiYang-05/EfficientVLA)]
 * [**NeurIPS'25**] Don't Just Chase "Highlighted Tokens" in MLLMs: Revisiting Visual Holistic Context Retention [[Paper](https://arxiv.org/pdf/2510.02912)] [[Code](https://github.com/obananas/HoloV)]
