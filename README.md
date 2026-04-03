@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/03/30`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
+- **`2026/04/02`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -259,6 +259,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**CVPR'26**] ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models [[Paper](https://arxiv.org/pdf/2509.24837v2)] [[Code](https://github.com/AIM-SKKU/ZOO-Prune)]
 * [**CVPR'26**] OTPrune: Distribution-Aligned Visual Token Pruning via Optimal Transport [[Paper](https://arxiv.org/pdf/2602.20205)] [[Code](https://github.com/xiwenc1/OTPrune)]
 * [**CVPR'26**] Accelerating Streaming Video Large Language Models via Hierarchical Token Compression [[Paper](https://arxiv.org/pdf/2512.00891)] [[Code](https://github.com/lern-to-write/STC)]
+* [**ICLR'26**] MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs [[Paper](https://arxiv.org/pdf/2508.18264)] [[Code](https://github.com/Ironieser/mmtok)]
 * [**ICLR'26**] iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models [[Paper](https://arxiv.org/pdf/2412.06263)] [[Code](https://github.com/hulianyuyy/iLLaVA)]
 * [**ICLR'26**] HiDrop: Hierarchical Vision Token Reduction in MLLMs via Late Injection, Concave Pyramid Pruning, and Early Exit [[Paper](https://arxiv.org/pdf/2602.23699)] [[Code](https://github.com/EIT-NLP/HiDrop)]
 * [**ICLR'26**] FLoC: Facility Location-Based Efficient Visual Token Compression for Long Video Understanding [[Paper](https://arxiv.org/pdf/2511.00141)]
