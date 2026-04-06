@@ -249,7 +249,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language (Action) Model
 <a id="vision-language(action)-model"></a>
 #### 2026
-* [**CVPR'26**] VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking [[Paper](https://arxiv.org/pdf/2603.20185)] [[Code](https://github.com/jylins/videoseek)]
 * [**CVPR'26**] Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing [[Paper](https://arxiv.org/pdf/2603.12254)] [[Code](https://github.com/NVlabs/AutoGaze)]
 * [**CVPR'26**] AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition [[Paper](https://arxiv.org/pdf/2512.03794)] [[Code](https://github.com/AdaptVision/AdaptVision)]
 * [**CVPR'26**] Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models [[Paper](https://arxiv.org/pdf/2603.01400)] [[Code](https://tyroneli.github.io/AOT/)]
@@ -421,6 +420,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🤖 Agentic Systems 
 <a id="agent"></a>
 #### 2026
+* [**CVPR'26**] VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking [[Paper](https://arxiv.org/pdf/2603.20185)] [[Code](https://github.com/jylins/videoseek)]
 * [**ICLR'26**] ACON: Optimizing Context Compression for Long-horizon LLM Agents [[Paper](https://arxiv.org/pdf/2510.00615v2)] [[Code](https://github.com/microsoft/acon)]
 * [arXiv] SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents [[Paper](https://arxiv.org/pdf/2601.16746)] [[Code](https://github.com/Ayanami1314/swe-pruner)]
 * [arXiv] AgentOCR: Reimagining Agent History via Optical Self-Compression [[Paper](https://arxiv.org/pdf/2601.04786)]
