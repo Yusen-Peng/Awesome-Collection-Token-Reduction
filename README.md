@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/04/05`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
+- **`2026/04/06`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -271,6 +271,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICLR'26**] MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding [[Paper](https://arxiv.org/pdf/2510.07915)] [[Code](https://github.com/Gimlettt/MARC)]
 * [**ICASSP'26**] PAR: Prompt-Aware Token Reduction Method for Efficient Large Multimodal Models [[Paper](https://arxiv.org/pdf/2410.07278)]
 * [**ICASSP'26**] ADAPTIVE-VOCO: COMPLEXITY-AWARE VISUAL TOKEN COMPRESSION FOR VISION-LANGUAGE MODELS [[Paper](https://arxiv.org/pdf/2512.18496)]
+* [**AAAI'26**] D2Pruner: Debiased Importance and Structural Diversity for MLLM Token Pruning [[Paper](https://arxiv.org/pdf/2512.19443)] [[Code](https://github.com/EvelynZhang-epiclab/D2Pruner)]
 * [**AAAI'26**] CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37592)]
 * [**AAAI'26**] TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks [[Paper](https://arxiv.org/pdf/2511.06283)] [[Code](https://github.com/xxlllz/TinyChemVL)]
 * [**AAAI'26**] Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration [[Paper](https://arxiv.org/pdf/2411.17686)] [[Code](https://github.com/kawhiiiileo/FiCoCo)]
@@ -330,7 +331,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression? [[Paper](https://arxiv.org/pdf/2512.15649)][[Code](https://github.com/Moenupa/VTCBench)]
 * [arXiv] StreamingTOM: Streaming Token Compression for Efficient Video Understanding [[Paper](https://arxiv.org/pdf/2510.18269)]
 * [arXiv] Adaptive Token Merging for Efficient Transformer Semantic Communication at the Edge [[Paper](https://arxiv.org/pdf/2509.09955)]
-* [arXiv] D2Pruner: Debiased Importance and Structural Diversity for MLLM Token Pruning [[Paper](https://arxiv.org/pdf/2512.19443)] [[Code](https://github.com/EvelynZhang-epiclab/D2Pruner)]
 * [arXiv] TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model [[Paper](https://arxiv.org/pdf/2507.20630)] [[Code](https://github.com/liaolea/TransPrune)]
 * [arXiv] A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.01548)] [[Code](https://github.com/HVision-NKU/GlimpsePrune)]
 * [arXiv] VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs [[Paper](https://arxiv.org/pdf/2510.16598)][[Code](https://github.com/JulietChoo/VisionSelector)]
