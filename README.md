@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/04/02`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
+- **`2026/04/05`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -249,6 +249,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language (Action) Model
 <a id="vision-language(action)-model"></a>
 #### 2026
+* [**CVPR'26**] VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking [[Paper](https://arxiv.org/pdf/2603.20185)] [[Code](https://github.com/jylins/videoseek)]
 * [**CVPR'26**] Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing [[Paper](https://arxiv.org/pdf/2603.12254)] [[Code](https://github.com/NVlabs/AutoGaze)]
 * [**CVPR'26**] AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition [[Paper](https://arxiv.org/pdf/2512.03794)] [[Code](https://github.com/AdaptVision/AdaptVision)]
 * [**CVPR'26**] Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models [[Paper](https://arxiv.org/pdf/2603.01400)] [[Code](https://tyroneli.github.io/AOT/)]
