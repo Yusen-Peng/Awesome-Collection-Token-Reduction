@@ -156,7 +156,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICLR'26**] LightMem: Lightweight and Efficient Memory-Augmented Generation [[Paper](https://arxiv.org/pdf/2510.18866)] [[Code](https://github.com/zjunlp/LightMem)]
 * [**ICLR'26**] Self-Aligned Reward: Towards Effective and Efficient Reasoners [[Paper](https://arxiv.org/pdf/2509.05489)] [[Code](https://github.com/amazon-science/Self-Aligned-Reward-Towards_Effective_and_Efficient_Reasoners)]
 * [**AAAI'26**] Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression [[Paper](https://arxiv.org/pdf/2508.05337)]
-* [**ICASSP'26**] Mask-GCG: Are All Tokens in Adversarial Suffixes Necessary for Jailbreak Attacks? [[Paper](https://arxiv.org/pdf/2509.06350)]
+* [**ICASSP'26**] Mask-GCG: Are All Tokens in Adversarial Suffixes Necessary for Jailbreak Attacks? [[Paper](https://arxiv.org/pdf/2509.06350)] [[Code](https://github.com/Junjie-Mu/Mask-GCG)]
 * [arXiv] Neural Chain-of-Thought Search: Searching the Optimal Reasoning Path to Enhance Large Language Models [[Paper](https://arxiv.org/pdf/2601.11340)] [[Code](https://github.com/MilkThink-Lab/Neural-CoT-Search)]
 * [arXiv] Do LLMs Encode Functional Importance of Reasoning Tokens? [[Paper](https://arxiv.org/pdf/2601.03066)] [[Code](https://github.com/greedy-token-pruner/greedy-token-pruner/)]
 * [arXiv] Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models [[Paper](https://arxiv.org/pdf/2601.18734)]
