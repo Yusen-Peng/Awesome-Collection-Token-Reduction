@@ -252,6 +252,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language (Action) Model
 <a id="vision-language(action)-model"></a>
 #### 2026
+* [**CVPR'26**] ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving [[Paper](https://www.arxiv.org/pdf/2512.22939)][[Code](https://github.com/pqh22/ColaVLA)]
 * [**CVPR'26**] Unified Spatiotemporal Token Compression for Video-LLMs at Ultra-Low Retention [[Paper](https://arxiv.org/pdf/2603.21957)]
 * [**CVPR'26**] HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models [[Paper](https://arxiv.org/pdf/2604.07812)] [[Code](https://github.com/peppery77/HAWK)]
 * [**CVPR'26**] Rethinking Token Reduction for Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2603.21701)] [[Code](https://github.com/MArSha1147/MetaCompress)]
@@ -328,7 +329,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICCV'25**] Growing a Twig to Accelerate Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2503.14075)] [[Code](https://github.com/MILVLG/twigvlm)]
 * [**ICCV'25**] Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs [[Paper](https://arxiv.org/pdf/2507.07990)] [[Code](https://github.com/HYUNJS/STTM)]
 * [arXiv] Sparsity Forcing: Reinforcing Token Sparsity of MLLMs [[Paper](https://arxiv.org/pdf/2504.18579)]
-* [arXiv] ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving [[Paper](https://www.arxiv.org/pdf/2512.22939)][[Code](https://github.com/pqh22/ColaVLA)]
 * [arXiv] Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation [[Paper](https://arxiv.org/pdf/2509.22093)][[Code](https://vla-adp.github.io/)]
 * [arXiv] The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning [[Paper](https://arxiv.org/pdf/2509.12594)][[Code](https://github.com/LiAutoAD/LightVLA)]
 * [arXiv] STORM: Token-Efficient Long Video Understanding for Multimodal LLMs [[Paper](https://arxiv.org/pdf/2503.04130v4)] [[Code](https://research.nvidia.com/labs/lpr/storm/)]
