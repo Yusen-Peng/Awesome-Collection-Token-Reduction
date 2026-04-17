@@ -252,7 +252,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language (Action) Model
 <a id="vision-language(action)-model"></a>
 #### 2026
-* [**CVPR'26**] ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving [[Paper](https://www.arxiv.org/pdf/2512.22939)][[Code](https://github.com/pqh22/ColaVLA)]
+* [**CVPR'26**] ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving [[Paper](https://www.arxiv.org/pdf/2512.22939)] [[Code](https://github.com/pqh22/ColaVLA)]
 * [**CVPR'26**] Unified Spatiotemporal Token Compression for Video-LLMs at Ultra-Low Retention [[Paper](https://arxiv.org/pdf/2603.21957)]
 * [**CVPR'26**] HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models [[Paper](https://arxiv.org/pdf/2604.07812)] [[Code](https://github.com/peppery77/HAWK)]
 * [**CVPR'26**] Rethinking Token Reduction for Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2603.21701)] [[Code](https://github.com/MArSha1147/MetaCompress)]
