@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/04/17`** Added ACL 2026, CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
+- **`2026/04/20`** Added ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -252,6 +252,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language (Action) Model
 <a id="vision-language(action)-model"></a>
 #### 2026
+* [**ACL'26**] HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.00553)][[Code](https://github.com/Danielement321/HiPrune)]
+* [**ICRA'26**] The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning [[Paper](https://arxiv.org/pdf/2509.12594)][[Code](https://github.com/LiAutoAD/LightVLA)]
 * [**CVPR'26**] ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving [[Paper](https://www.arxiv.org/pdf/2512.22939)] [[Code](https://github.com/pqh22/ColaVLA)]
 * [**CVPR'26**] Unified Spatiotemporal Token Compression for Video-LLMs at Ultra-Low Retention [[Paper](https://arxiv.org/pdf/2603.21957)]
 * [**CVPR'26**] HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models [[Paper](https://arxiv.org/pdf/2604.07812)] [[Code](https://github.com/peppery77/HAWK)]
@@ -330,7 +332,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICCV'25**] Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs [[Paper](https://arxiv.org/pdf/2507.07990)] [[Code](https://github.com/HYUNJS/STTM)]
 * [arXiv] Sparsity Forcing: Reinforcing Token Sparsity of MLLMs [[Paper](https://arxiv.org/pdf/2504.18579)]
 * [arXiv] Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation [[Paper](https://arxiv.org/pdf/2509.22093)][[Code](https://vla-adp.github.io/)]
-* [arXiv] The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning [[Paper](https://arxiv.org/pdf/2509.12594)][[Code](https://github.com/LiAutoAD/LightVLA)]
 * [arXiv] STORM: Token-Efficient Long Video Understanding for Multimodal LLMs [[Paper](https://arxiv.org/pdf/2503.04130v4)] [[Code](https://research.nvidia.com/labs/lpr/storm/)]
 * [arXiv] DeepSeek-OCR: Contexts Optical Compression [[Paper](https://arxiv.org/pdf/2510.18234)][[Code](https://github.com/deepseek-ai/DeepSeek-OCR)]
 * [arXiv] Glyph: Scaling Context Windows via Visual-Text Compression [[Paper](https://arxiv.org/pdf/2510.17800)][[Code](https://github.com/thu-coai/Glyph)]
@@ -341,7 +342,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.01548)] [[Code](https://github.com/HVision-NKU/GlimpsePrune)]
 * [arXiv] VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs [[Paper](https://arxiv.org/pdf/2510.16598)][[Code](https://github.com/JulietChoo/VisionSelector)]
 * [arXiv] Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models [[Paper](https://arxiv.org/pdf/2511.02650v1)][[Code](https://github.com/TianfanPeng/VLMUniPruneBench)]
-* [arXiv] HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.00553)][[Code](https://github.com/Danielement321/HiPrune)]
 * [arXiv] To Sink or Not to Sink: Visual Information Pathways in Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2510.08510)] [[Code](https://davidhalladay.github.io/diysink_demo/)]
 * [arXiv] Sparsity Forcing: Reinforcing Token Sparsity of MLLMs [[Paper](https://arxiv.org/pdf/2504.18579)]
 * [arXiv] Fine-grained Token Allocation Via Operation Pruning for Efficient MLLMs [[Paper](https://arxiv.org/pdf/2507.02909v2)][[Code](https://github.com/zxcvfd13502/GSOP)]
