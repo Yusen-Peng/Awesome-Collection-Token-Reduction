@@ -41,6 +41,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 #### 2026
 * [**CVPR'26**] From Pixels to Privacy: Temporally Consistent Video Anonymization via Token Pruning for Privacy Preserving Action Recognition [[Paper](https://arxiv.org/pdf/2603.26336)] [[Code](https://github.com/Rabusi/From-Pixels-to-Privacy-Temporally-Consistent-Video-Anonymization-via-Token-Pruning-for-Privacy-Pres)]
 * [**CVPR'26**] BiGain: Unified Token Compression for Joint Generation and Classification [[Paper](https://arxiv.org/pdf/2603.12240)] [[Code](https://github.com/Greenoso/BiGain)]
+* [**CVPR'26**] OminiControl2: Efficient Conditioning for Diffusion Transformers [[Paper](https://arxiv.org/pdf/2503.08280)] [[Code](https://github.com/Yuanshi9815/OminiControl)]
 * [**CVPR'26**] SpotEdit: Selective Region Editing in Diffusion Transformers [[Paper](https://arxiv.org/pdf/2512.22323)] [[Code](https://github.com/Biangbiang0321/SpotEdit)]
 * [**CVPR'26**] UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking [[Paper](https://arxiv.org/pdf/2602.23734)] [[Code](https://github.com/EIT-NLP/UTPTrack)]
 * [**ICLR'26**] InfoTok: Adaptive Discrete Video Tokenizer via Information-Theoretic Compression [[Paper](https://arxiv.org/pdf/2512.16975)] [[Code](https://github.com/YWolfeee/InfoTok)]
@@ -75,7 +76,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**AAAI'25**] Training-free and hardware-friendly acceleration for diffusion models via similarity-based token pruning [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33071)] [[Code](https://github.com/EvelynZhang-epiclab/SiTo)]
 * [arXiv] Pretraining Frame Preservation in Autoregressive Video Memory Compression [[Paper](https://arxiv.org/pdf/2512.23851)] [[Code](https://github.com/lllyasviel/PFP)]
 * [arXiv] Co-Me: Confidence Guided Token Merging for Visual Geometric Transformers [[Paper](https://arxiv.org/pdf/2511.14751)] [[Code](https://github.com/co-me-tokens/CoMe)]
-* [arXiv] OminiControl2: Efficient Conditioning for Diffusion Transformers [[Paper](https://arxiv.org/pdf/2503.08280)] [[Code](https://github.com/Yuanshi9815/OminiControl)]
 * [arXiv] Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration [[Paper](https://arxiv.org/abs/2506.05709)] [[Code](https://github.com/AuroraZengfh/TokenTransforming)]
 * [arXiv] Pyramid Sparse Transformer: Efficient Multi-Scale Feature Fusion with Dynamic Token Selection [[Paper](https://arxiv.org/pdf/2505.12772)] [[Code](https://github.com/inlmouse/PyramidSparseTransformer)]
 * [arXiv] Cached Adaptive Token Merging: Dynamic Token Reduction and Redundant Computation Elimination in Diffusion Model [[Paper](https://arxiv.org/pdf/2501.00946)] [[Code](https://github.com/omidiu/ca_tome)]
